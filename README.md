@@ -10,6 +10,8 @@ Nobes, C., & Stadler, C. (2023). Deviations from the Mandatory Adoption of IFRS 
 
 **Citation:** When you use our data, please cite the above research article and the data DOI.
 
+[![DOI](https://zenodo.org/badge/626513872.svg)](https://zenodo.org/badge/latestdoi/626513872)
+
 ***
 
 **Database:** We will publish our database when we have finished the remaining data collection.
