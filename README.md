@@ -1,10 +1,10 @@
-This repository contains data related to the following published research article: 
+This repository contains data related to the following published research article (open access): 
 
 Nobes, C., & Stadler, C. (2023). Deviations from the Mandatory Adoption of IFRS in Europe? Why Non-Adoption Does Not Mean Non-Compliance. *European Accounting Review*, forthcoming. https://doi.org/10.1080/09638180.2023.2197248
 
 **Summary:** We provide researchers with a hand-collected database for German and UK firms for the period 2005–2020, which can be used to amend and supplement Worldscope. The database includes information on country of incorporation, whether consolidated financial statements are prepared, the accounting standards applied, and whether the firm is listed on an EU-regulated market.
 
-**Data description:** See Appendix 1 of the published paper for detailed information about our database. Alternatively, Appendix 1 is available via SSRN: https://ssrn.com/abstract=4379845
+**Data description:** See Appendix 1 of the published research article for detailed information about our database.
 
 **License:** The data in this repository is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0) License. 
 
